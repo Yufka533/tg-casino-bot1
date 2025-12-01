@@ -1,0 +1,32 @@
+# Базы данных
+*.db
+*.sqlite3
+casino.db
+scheduled_posts.db
+admins.db
+
+# Логи
+*.log
+bot.log
+
+# Переменные окружения
+.env
+.env.local
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
