@@ -1,0 +1,5 @@
+[environments]
+  [environments.default]
+    BOT_TOKEN = "8343415317:AAHBEnbS0fRCDU8s5Si5QLCGYkQV5azIOZI"
+    CHANNEL_ID = "-1003312644624"
+    GROUP_ID = "-1003302203585"
